@@ -4,7 +4,7 @@
 
 .portfolio {
   width: 50%;
-  border: 3px solid black;
+  border: 5px double black;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -18,10 +18,13 @@ html {
   text-align: center;
   background-image: url(../img/marble.jpg);
   border-radius: 25px !important;
+  border: 2px solid black;
 }
 
 .portfolio2 {
   border: 3px solid black;
+  background-image: url(../img/marble.jpg);
+  text-align: center;
 }
 
 .marble {
@@ -30,6 +33,7 @@ html {
 }
 .marble2 {
   background-image: url(../img/marble.jpg);
+  border: 2px solid black;
 }
 
 .interests2 {
@@ -38,4 +42,24 @@ html {
 
 .alignright {
   text-align: center;
+}
+
+.project {
+  text-align: center;
+  background-image: url(../img/paper.gif);
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+.project2 {
+  background-image: url(../img/paper.gif);
+  border: 2px solid black;
+}
+
+.cat {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 3px double rgb(255, 0, 0);
 }
