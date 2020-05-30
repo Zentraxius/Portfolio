@@ -1,29 +1,41 @@
-.portfolio {
-    width: 15%;
-    height: 15%;
-border: 3px solid black;
+.row {
+  background-color: rgb(185, 209, 253);
 }
 
-.portfoliofoot
-{
-    width: 15%;
-    text-align: center;
+.portfolio {
+  width: 50%;
+  border: 3px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 html {
-    background-color: rgb(185, 209, 253);
-}
-
-h5 {
-    float: right;
-    width: 15%;
-    text-align: center;
-    font-size: large;
+  background-color: rgb(185, 209, 253);
 }
 
 .interests {
-    float: right;
-    text-align: center;
-    border: solid black;
-    width: 15%;
+  text-align: center;
+  background-image: url(../img/marble.jpg);
+  border-radius: 25px !important;
+}
+
+.portfolio2 {
+  border: 3px solid black;
+}
+
+.marble {
+  background-image: url(../img/marble.jpg);
+  border-radius: 25px;
+}
+.marble2 {
+  background-image: url(../img/marble.jpg);
+}
+
+.interests2 {
+  text-align: center;
+}
+
+.alignright {
+  text-align: center;
 }
