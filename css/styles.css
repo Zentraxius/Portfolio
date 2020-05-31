@@ -1,5 +1,7 @@
 .row {
   background-color: rgb(185, 209, 253);
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .portfolio {
@@ -65,13 +67,4 @@ html {
   margin-right: auto;
   display: block;
   border: 3px double rgb(255, 0, 0);
-}
-
-.row {
-  display: flex !important;
-  flex-flow: row wrap !important;
-}
-body {
-  display: flex;
-  flex-flow: row wrap;
 }
