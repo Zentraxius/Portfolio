@@ -19,6 +19,7 @@ html {
   background-image: url(../img/marble.jpg);
   border-radius: 25px !important;
   border: 2px solid black;
+  text-align: center;
 }
 
 .portfolio2 {
@@ -34,6 +35,7 @@ html {
 .marble2 {
   background-image: url(../img/marble.jpg);
   border: 2px solid black;
+  text-align: center;
 }
 
 .interests2 {
@@ -54,6 +56,7 @@ html {
 .project2 {
   background-image: url(../img/paper.gif);
   border: 2px solid black;
+  text-align: center;
 }
 
 .cat {
@@ -62,4 +65,13 @@ html {
   margin-right: auto;
   display: block;
   border: 3px double rgb(255, 0, 0);
+}
+
+.row {
+  display: flex !important;
+  flex-flow: row wrap !important;
+}
+body {
+  display: flex;
+  flex-flow: row wrap;
 }
