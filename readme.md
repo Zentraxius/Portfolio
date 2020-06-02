@@ -28,6 +28,6 @@ HTML, CSS
 
 ### License
 
-_{MIT}}_
+_{MIT}_
 
 Copyright (c) 2016 **_{Cody Fritz}_**
