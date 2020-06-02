@@ -1,23 +1,33 @@
-Name: Portfolio
+# _{Portfolio}_
 
-GHPAGESL;INKDSDAKDAHSJKLDASBXCJKASHNJKDASHDJKLAS
+#### _{A basic variant of my portfolio}, {6/1/2020}_
 
-By Cody Fritz 05/30/20
+GH-Pages : https://zentraxius.github.io/Portfolio/
 
-Description: A portfolio of my various projects I consider worth mentioning, will be updated as time goes on to showcase new projects and my cat.
+#### By _**{Cody Fritz}**_
 
-Installation Requirements
+## Description
 
-index.html can be opened with Firefox and Google Chrome for offline use, otherwise simply visit the gh-pages link above
+_{This is my first portfolio, made on my 4th day of learning to code with Epicodus}_
 
-Known Bugs
+## Setup/Installation Requirements
+
+Simply open index.html in your firefox or google chrome browser.
+
+## Known Bugs
+
+No known bugs
+
+## Support and contact details
 
 For support please contact clanalia55@gmail.com
 
-Technologies Used
-Project coded using HTML/CSS in VisualStudioCode
-Bootstrap used as framework
+## Technologies Used
 
-## License
+HTML, CSS
 
-MIT
+### License
+
+_{MIT}}_
+
+Copyright (c) 2016 **_{Cody Fritz}_**
